@@ -49,6 +49,7 @@ $ python infer.py --ckpt_path ./models/gpt2.bin --input_path ./test_article.txt 
 Parameters:
 
  - `ckpt_path`: Path to the trained checkpoint.
+ - `model`: The architecture of the checkpoint.
  - `input_path`: Path to the input article, should be in plaintext form.
  - `batch_size`: Inference batch size
  - `beam_size`: Beam search width
