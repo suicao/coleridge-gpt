@@ -1,3 +1,5 @@
+Part of 1st place solution for Coleridge Initiative - Show US the Data.
+
 # Summary
 This solution is a text extraction model with CLM backbone, in this case GPT, and beam search. The reason a unidirectional language model like GPT worked better than models like BERT is that bidirectional models can find a shortcut by looking to the future, they don't need to care about the context and will try to find a substring that most resemble a dataset name, thus lead to overfitting.
 
