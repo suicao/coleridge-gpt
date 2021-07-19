@@ -1,0 +1,1705 @@
+Discussion Paper
+Deutsche Bundesbank
+No 09/2018
+Cheap talk?
+Financial sanctions and non-financial activity
+Tibor Besedes
+(Georgia Institute of Technology)
+Stefan Goldbach
+(Deutsche Bundesbank)
+Volker Nitsch
+(Technische Universität Darmstadt and CESifo)
+Discussion Papers represent the authors` personal opinions and do not
+necessarily reflect the views of the Deutsche Bundesbank or the Eurosystem.
+Editorial Board:
+Deutsche Bundesbank, Wilhelm-Epstein-Straße 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-0
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978­3­95729­442­5 (Printversion)
+ISBN 978­3­95729­443­2 (Internetversion)
+Daniel Foos
+Thomas Kick
+Malte Knüppel
+Jochen Mankart
+Christoph Memmel
+Panagiota Tzamourani
+Non-technical summary
+Research Question
+This paper examines the effect of financial sanctions on the country imposing them. In
+particular, we analyze the business responses of German non-financial entities to the
+imposition of sanctions on 23 countries over the period from 1999 through 2014.
+Contribution
+We begin with an analysis of the direct costs of sanctions in terms of cross-border
+business that is lost using monthly balance of payments transactions between January
+1999 and December 2014. Next, we characterize non-financial firms affected by
+sanctions in more detail. The transaction data also enable us to explore the response of
+sanctions-affected declarants directly. In particular, we aim to identify possible
+sanctions evasion behavior by non-financial reporting units. Finally, we examine the
+impact of sanctions on firm-level variables such as total sales and the number of
+employees using corporate balance sheet data.
+Results
+We find four key results. First, German financial activities with sanctioned countries are
+sizably reduced after the imposition of sanctions, with strong reductions in the scope of
+cross-border activities (i.e., the extensive margin with fewer firms and fewer asset
+categories) and less statistically robust results for total financial flows (sum of inflows
+and outflows) which is consistent with the concept of `smart sanctions'. Second, firms
+doing business with sanctioned countries tend to be disproportionately large, making
+them largely immune to the reduction in business opportunities with individual partners.
+Third, firms affected by sanctions expand their activities with non-sanctioned countries,
+some of which display close trade ties to the sanctioned country. Fourth, we find no
+effect of sanctions on aggregate variables of firm performance such as employment or
+total sales. Overall, we conclude that the economic costs of financial sanctions to the
+sender country are limited.
+Nichttechnische Zusammenfassung
+Fragestellung
+Die vorliegende Arbeit untersucht, wie sich Finanzsanktionen auf das Senderland aus-
+wirken. Dazu analysieren wir die Reaktionen deutscher nicht-finanzieller Unternehmen
+auf die Einführung von Sanktionen gegen 23 Länder im Zeitraum von 1999 bis 2014.
+Beitrag
+Wir analysieren zunächst die direkten Kosten von Sanktionen im Hinblick auf den
+Umfang grenzüberschreitender Geschäfte, indem wir monatliche Transaktionsdaten aus
+der Zahlungsbilanz zwischen Januar 1999 und Dezember 2014 auswerten. Danach
+charakterisieren wir die nicht-finanziellen Unternehmen, die von Sanktionen betroffen
+sind, im Detail. Die Transaktionsdaten ermöglichen uns zudem, die Reaktionen von
+nicht-finanziellen Unternehmen zu untersuchen, die direkt von den Sanktions-
+maßnahmen betroffen sind und ein mögliches Ausweichverhalten dieser Unternehmen
+zu identifizieren. Schließlich untersuchen wir die Auswirkungen von Sanktionen auf
+firmenspezifische Kennziffern wie Gesamtumsätze und Mitarbeiteranzahl mit Hilfe der
+Unternehmensbilanzstatistik.
+Ergebnisse
+Wir erhalten vier Hauptergebnisse. Erstens werden deutsche Finanzaktivitäten mit
+sanktionierten Ländern nach der Einführung restriktiver Maßnahmen deutlich ein-
+geschränkt. Dies erfolgt vor allem über einen starken Rückgang der grenzüber-
+schreitenden Aktivitäten am extensiven Rand (z.B. weniger Unternehmen und weniger
+Vermögensklassen) und statistisch weniger robust bei den gesamten Finanzströmen
+(Summe aus Mittelzu- und -abflüssen), was mit dem Konzept gezielter Sanktionen kon-
+sistent ist. Zweitens sind Unternehmen, die Geschäfte mit sanktionierten Ländern
+tätigen, größer und international aktiver, so dass sie eine Verringerung der
+Geschäftsaktivitäten mit einzelnen Partnern besser abfedern können. Drittens erweitern
+von Sanktionen betroffene Unternehmen ihre Aktivitäten mit nicht sanktionierten
+Ländern, welche wiederum zum Teil enge Handelskontakte mit den sanktionierten
+Ländern unterhalten. Viertens finden wir keinen Effekt von Sanktionen auf Variablen
+der Unternehmensleistung wie Beschäftigung oder Gesamtumsatz. Insgesamt kommen
+wir zu dem Schluss, dass die wirtschaftlichen Kosten von Finanzsanktionen für das
+Senderland eher begrenzt sind.
+DEUTSCHE BUNDESBANK DISCUSSION PAPER NO 09/2018
+Cheap Talk? Financial Sanctions and Non-Financial Activity1
+Tibor Besedes
+Georgia Institute of
+Technology
+Stefan Goldbach
+Deutsche Bundesbank
+Volker Nitsch
+Technische
+Universität Darmstadt
+and CESifo
+Abstract
+Sanctions restrict cross-border interactions and, therefore, not only put political and economic
+pressure on the target country, but they also adversely affect the sender country. This paper
+examines the effect of financial sanctions on the country imposing them. In particular, we
+analyze the business responses of German non-financial entities to the imposition of sanctions
+on 23 countries over the period from 1999 through 2014. Examining highly disaggregated,
+monthly data from the German balance of payments statistics, we find four main results. First,
+German financial activities with sanctioned countries are sizably reduced after the imposition
+of sanctions, with strong reductions in the scope of cross-border activities (i.e., the extensive
+margin with fewer firms and fewer asset categories) and less statistically robust results for
+total financial flows (sum of inflows and outflows) which is consistent with the concept of
+`smart sanctions'. Second, firms doing business with sanctioned countries tend to be
+disproportionately large, making them largely immune to the reduction in business
+opportunities with individual partners. Third, firms affected by sanctions expand their
+activities with non-sanctioned countries, some of which display close trade ties to the
+sanctioned country. Fourth, we find no effect of sanctions on aggregate variables of firm
+performance such as employment or total sales. Overall, we conclude that the economic costs
+of financial sanctions to the sender country are limited.
+Keywords: sanction; restriction; cross-border transaction
+JEL-Classification: F20; F36; F38; F51
+1 Corresponding author. Contact address: Hochschulstrasse 1, 64289 Darmstadt. E-Mail: nitsch@vwl.tu-
+darmstadt.de. The authors thank Jeff Chan, Nikolaos Charalampidis, Ulrich Grosch and participants at
+presentations in Aarhus, Antigonish, Darmstadt, Frankfurt, Malmö, and San Diego for helpful comments. The
+views expressed in this paper are those of the authors and do not necessarily coincide with the views of the
+Deutsche Bundesbank or the Eurosystem.
+1
+1. Introduction
+Sanctions are a popular instrument in international diplomacy. The European Union,
+for instance, currently imposes restrictive measures on 38 countries and terrorist groups2,
+arguing that sanctions help to promote their foreign policy objectives of "peace, democracy
+and the respect for the rule of law, human rights and international law". 3 Hufbauer, Schott,
+Elliott, and Oegg (2007) compile an extensive and repeatedly updated database of sanctions
+episodes, which, in its most recent version, covers 204 case studies over the period from 1914
+to 2006.
+Still, despite their frequent use, sanctions are under dispute, for at least two reasons.
+First, sanctions are typically found to be ineffective in changing the policies of the target
+country. While both the definition of success as well as the contribution to success made by
+sanctions depends to a significant degree on subjective evaluation, sanctions often seem to fail
+to achieve their objectives.4 Hufbauer, Schott, Elliott, and Oegg (2007), for instance, using an
+index ranging from 1 to 16 to assess individual sanctions episodes, classify about one in three
+cases as successful.5 Biersteker, Eckert, Tourinho, and Hudáková (2013, p. 21) are even more
+pessimistic; they argue that UN targeted sanctions achieve their purposes only 22 percent of
+the time. More importantly, attempts to identify factors that determine whether or not
+sanctions are effective often yield inconclusive results; see Kaempfer and Lowenberg (2007)
+for a review.
+Second, sanctions also imply costs for the sender country. The reduction of bilateral
+relations not only restricts sanctioned entities and their ability to interact, but also limits the
+business opportunities of the sanctioning country. Consequently, business groups in the
+sanctions-imposing country typically oppose such measures. When the U.S. government, for
+instance, considered a tightening of sanctions against Russia in June 2014, the U.S. Chamber
+of Commerce and the National Association of Manufacturers issued a newspaper
+advertisement stating that "[w]e are concerned about actions that would harm American
+2 See the list of restrictive measures in force, available at
+https://eeas.europa.eu/sites/eeas/files/restrictive_measures-2016-10-11-clean.pdf.
+3 Masters (2015) even notes that "because the EU lacks a joint military force, many European
+leaders consider sanctions the bloc's most powerful foreign policy tool".
+4 Levy (1999) convincingly illustrates this point by discussing different views about the role
+of trade sanctions in ending the apartheid regime in South Africa.
+5 For the 204 sanctions episodes listed at
+http://www.piie.com/research/topics/sanctions/sanctions-timeline.cfm, the average success
+score is 6.9; see also Table 6.1 in Hufbauer, Schott, Elliott, and Oegg (2007).
+2
+manufacturers and cost American jobs. [...] The only effect of such sanctions is to bar U.S.
+companies from foreign markets and cede business opportunities to firms from other
+countries." 6 German corporate executives are reported to have warned, in similar fashion,
+against escalating the measures ("German Businesses Urge Halt on Sanctions Against
+Russia", The Wall Street Journal, May 1, 2014).
+In practice, sanctions affect the sender's economy in many ways, making
+quantification of their overall domestic burden difficult. Apart from the immediate reduction
+in foreign market access, possible costs include the general increase in uncertainty associated
+with conflict escalation, the risk of countermeasures by the sanctioned country and a long-
+term loss of the foreign market due to greater competition from non-sanctioning countries. At
+the other extreme, sender countries may also benefit from the imposition of restrictive
+measures. Cutting aid or official credits, for instance, implies an immediate reduction in
+budgetary expenditures, as noted by Hufbauer, Schott, Elliott, and Oegg (2007, p. 108).
+In view of these difficulties in identifying the domestic costs of sanctions, empirical
+studies typically follow, to the extent they address this issue at all, a two-step approach to
+examine the impact of sanctions on the sender's economy. In a first step, the effect of
+sanctions on the targeted economic activity is analyzed. Specifically, since sanctions aim to
+restrict cross-border interactions, the decline in business with the sanctioned country is
+quantified, often with a strong focus on bilateral trade. In a second step, based on this
+estimate, the economic loss to the sanctioning country is calculated. Hufbauer, Elliott, Cyrus,
+and Winston (1997), for example, examine the costs of unilateral economic sanctions by the
+United States and estimate that the sanctions may have reduced the country's exports to 26
+target countries by about 15-19 billion US dollars in 1995. Assuming, then, that 1 billion US
+dollars of exports supported about 13,800 jobs and that there was no offsetting increase in
+exports to other markets, they argue that this drop translated into a reduction of about
+200,000-260,000 jobs. Moreover, since jobs in the export sector pay relatively high wages,
+they estimate that workers probably lost about 0.8-1.0 billion US dollars in export sector wage
+premiums.
+In this paper, we assess the costs of financial sanctions on the imposing country in
+more detail. In particular, we examine the effects of financial sanctions on German non-
+financial entities over the period from 1999 through 2014. During this time, Germany newly
+6 A copy of the ad is available on the association's website at
+http://www.nam.org/Issues/Trade/NAM-Chamber-Ad.pdf.
+3
+imposed restrictive financial measures on 23 countries, most of which are still in place. More
+notably, using highly disaggregated, monthly data from the German balance of payments
+statistics, we are able to identify business units that declared financial transactions with
+sanctioned countries and, therefore, can be assumed to have been directly affected by the
+measures. As we are interested in identifying the costs of sanctions beyond the reduction in
+bilateral financial flows, we focus our analysis on German non-financial declarants. To the
+extent that financial restrictions have any measurable effect on the economic performance of
+individual declarants, these effects should be particularly observable for non-financial
+business entities. For German banks and insurance companies, in contrast, with their large-
+scale financial operations in major national and international markets, the reduction in
+business opportunities due to sanctions policies is expected to have generally limited
+consequences on their overall activities.7
+We examine the impact of financial sanctions on domestic businesses along various
+lines. We begin with an analysis of the direct costs of sanctions in terms of cross-border
+business that is lost. More specifically, we apply a differences-in-differences approach to
+study changes in German bilateral capital flows with the sanctioned country after the
+imposition of sanctions. Besedes, Goldbach and Nitsch (2017) find a strong and immediate
+decline in cross-border activities with the target country at both the extensive and intensive
+margins; they estimate, for instance, that after the imposition of financial sanctions German
+capital flows with the sanctioned country decrease by about 50 percent. When we decompose
+the effect by the type of declarant, however, we find that the decline in financial flows is
+dominated by a reduction in foreign activities by German financial institutions. For non-
+financials, in contrast, the reduction in cross-border business with sanctioned countries is
+mainly driven by a decline in the scope of activities (i.e., the extensive margin) while the
+results for total financial flows (i.e., the intensive margin) turn out to be less robust.
+Next, we characterize non-financial firms affected by sanctions in more detail. With
+only few exceptions (e.g., Russia), restrictive financial measures have been primarily imposed
+on countries of small, even tiny, importance for Germany as counterparts in financial
+7 Buch and Lipponer (2004) provide a detailed empirical assessment of the international
+activities of German banks. According to their findings, German banks operating abroad
+typically expand their business either to realize economies of scale, with particularly strong
+engagements in OECD countries and major international financial centers, or to reap
+diversification benefits, reporting payments to (or from) a large portfolio of countries. In
+either case, business with sanctioned countries is of minor importance for a bank's overall
+performance.
+4
+transactions. Consequently, it is perhaps not surprising that German firms that declared
+financial transactions with sanctioned countries turn out to be disproportionately large and
+generally very active in (many) international markets ­ a finding that is in line with the
+literature on firm-level exports.8 As a result, firms affected by sanctions are expected to have
+various outside options in response to newly-imposed restrictions.
+Our micro data also enable us to explore the response of sanctions-affected declarants
+directly. In particular, we aim to identify possible sanctions evasion behavior by non-financial
+reporting units. We find that German firms which declared activities with sanctioned
+countries in the 12 months before restrictive measures were imposed sizably expand their
+activities with other countries, some of which display close trade ties to the sanctioned
+country, potentially indicating sanctions evasion behavior.
+Finally, we examine the impact of sanctions on firm-level variables such as total sales
+and the number of employees. If financial sanctions have any severe consequences for the
+sanctioning country's economy, as argued, for instance, by national business associations, the
+costs of sanctions should be observable in these measures. However, the business
+performance of firms affected by sanctions is not measurably different from that of firms
+doing business only with non-sanctioned countries. Overall, we find consistent evidence that
+the costs of financial sanctions on the German economy are, if anything, moderate.
+The remainder of the paper is organized as follows. Section 2 reviews some relevant
+aspects of sanctions and sanction policies, followed by a description of our data. In Section 4,
+we follow standard practices and examine the effect of financial sanctions on cross-border
+activities. We then make explicit use of the firm-level dimension of our data set and
+characterize German non-financial declarants that report business with sanctioned countries in
+Section 5. In Section 6, we explore firm-level responses to the imposition of sanctions, while
+Section 7 focuses on the effects of sanctions on aggregate measures of firm performance.
+Finally, Section 8 provides some concluding comments.
+8 See, for instance, Bernard, Jensen, Redding, and Schott (2017), Table 5.
+5
+2. Financial Sanctions in the European Union
+In the European Union (EU), where member states have committed themselves to a
+Common Foreign and Security Policy, foreign policy instruments are (typically) imposed by
+the Council of the EU. Among the instruments for external action, financial sanctions became
+available to EU authorities in 1994. At this time, the Treaty of Maastricht entered into force,
+which introduced the free movement of capital as a Treaty freedom. Today, Article 63 of the
+Treaty of the Functioning of the European Union (TFEU) prohibits all restrictions on
+payments and the movement of capital between member states and between member states
+and third countries, while Article 215 TFEU allows for the interruption or reduction, in part or
+completely, of economic and financial relations with one or more third countries.
+For our purposes, two features of sanction policies in the European Union are
+particularly noteworthy. First, while the Council acts by qualified majority, making it
+difficult, if not impossible, for a single country to veto proposed legislation, regulations are
+directly applicable in all EU member states and binding in their entirety. As a result, there is
+only limited scope for potential concerns of endogeneity, where the decision to impose
+restrictive measures is affected by their expected domestic costs. Still, as the EU implements
+sanctions either autonomously, at the EU level, or as a result of resolutions of the Security
+Council of the United Nations (UN), we check for robustness by examining UN sanctions
+only.
+Second, the EU adopts, in practice, a wide range of restrictive measures. These
+measures often target specific activities; they also include, for instance, restrictions on non-
+financial activities such as trade embargoes and travel bans. The overwhelming majority of
+such measures, however, directly and/or indirectly affects cross-border financial relations and
+is, therefore, also officially recorded as a financial sanction (which is the policy instrument of
+our interest). Embargoes on exports of specific types of goods, for instance, typically involve
+restrictions on technical assistance, training and financing; travel bans on named individuals
+are often accompanied by other restrictive measures, such as the freezing of funds and
+financial assets. The measures are also regularly reviewed and frequently adjusted. Besedes,
+Goldbach and Nitsch (2017), for instance, use this information to also examine the effects of
+the strength, and changes in the strength (i.e., tightening and loosening), of sanctions on cross-
+border capital flows. In this paper, to save space, we generally limit our attention to the
+distinction whether a country is sanctioned or not.
+6
+3. Data
+Our analysis is based on two confidential micro data sets from the Deutsche
+Bundesbank. Given the sensitivity of the business information involved, the data are only
+accessible, often in anonymized form, at the headquarters of the Bundesbank in Frankfurt,
+Germany.
+We use the Deutsche Bundesbank's balance of payments statistics as our main source
+of data. This register contains detailed information on financial transactions between
+Germany and the rest of the world and has, for our purposes, at least two notable advantages.
+First, the data set is complete; all individuals, firms and financial institutions located in
+Germany are required to report cross-border payments in excess of 12,500 euros to the
+Deutsche Bundesbank, allowing the central bank to compile the monthly balance of payments
+statistics.9 Second, the register collects information on various transaction features, including
+the name and the address of the reporting unit, thereby allowing us to identify cross-border
+financial activities of non-financial declarants.10 In addition, for each single declaration, the
+value and the partner country of the transaction are provided as well as information on the
+type of asset that is transferred (bonds, commercial paper, stocks, investment certificate,
+equity capital, credit and other capital).11 Hence, although the frequency of the data is
+monthly, with information provided at the end of the month, the data is effectively close to the
+level of the individual transaction.
+In contrast to Besedes, Goldbach and Nitsch (2017), however, we do not use the full
+sample of balance of payments entries available to us, but, aiming to assess the domestic
+(economic) costs of sanctions, focus our attention exclusively on transactions of non-financial
+declarants. Consequently, we exclude cross-border financial flows reported by financial
+institutions, many of them of considerable magnitude, which implies a loss of 4,364
+declarants out of a total of 47,674 reporting units. We also deviate from Besedes, Goldbach
+9 See Section 67 of the Foreign Trade and Payments Ordinance
+(Außenwirtschaftsverordnung), available at
+http://www.bmwi.de/Redaktion/DE/Downloads/A/awv-englisch.html.
+10 Cross-border transactions by households and individuals are typically declared by the
+financial institution that handles the transfer.
+11 For a few types of transactions, exemptions exist such that there is no declaration
+necessary; these exemptions are: payments below the threshold of 12,500 euro, payments
+related to the export and import of goods, (re-)payments related to short-term (duration of less
+than 12 months) loans, paid short-term deposits to foreign monetary institutions and payments
+which are forwarded to other foreigners.
+7
+and Nitsch (2017) in analyzing more years of data. Our sample covers the period from
+January 1999 to December 2014.
+The second source of information that we use is the corporate balance sheets database
+of the Bundesbank, Ustan. The Bundesbank has collected, for various purposes, extensive
+data on individual firms. The data are often taken from financial statements, but may also
+have been obtained from a mandatory questionnaire that covers the firms' balance sheet and
+profit and loss accounts data. Most notably for our purposes, the database contains
+information on firm characteristics that are not included in the balance of payments data (such
+as firm employment or sales).12
+The corporate balance sheets data are available on an annual basis. We merge the data
+with our information from the balance of payments data by the corresponding year (such that
+annual firm data is matched with the monthly transactions data in each of the twelve months
+in a given year). As the firm identifiers are not identical for the two data sets, we apply a
+propensity score string matching algorithm, based on the name of the firm, its address and its
+legal form, to link the two data sets. Schild, Schultz, and Wieser (2017) provide a detailed
+discussion of the matching methodology and the quality of the match; see also Appendix 1.
+Information on financial sanctions is mainly obtained from the service center
+`Financial Sanctions' of the Deutsche Bundesbank.13 This unit, which is responsible for the
+implementation of European Union Regulations on financial sanctions in Germany, provides
+a compilation of executive orders and disseminates relevant information to interested parties
+and the wider public. We augment this data with additional information from official
+European Union sources.14
+During our sample period, financial sanctions have been newly imposed on
+23 countries. Table 1 provides a list of countries along with a brief description of the
+measures taken.15 As shown, almost all target countries are economically small and/or poorly
+developed. More importantly, they are often of tiny importance for the international financial
+12 For a more detailed description, see
+https://www.bundesbank.de/Redaktion/EN/Standardartikel/Bundesbank/Research_Centre/rese
+arch_data_micro_data_ustan.html.
+13 See
+http://www.bundesbank.de/Navigation/EN/Service/Financial_sanctions/financial_sanctions.html.
+14 Common Foreign and Security Policy Decisions and European Union Regulations are
+published in the Official Journal of the EU; see http://eur-lex.europa.eu/homepage.html.
+15 The table has been updated and extended from Besedes, Goldbach and Nitsch (2017).
+8
+business relationships of German non-financial companies. As shown in Figure 1, to the
+extent any (direct) financial activities are reported, the target countries typically account, with
+few exceptions, for less than 0.01 percent of cross-border capital flows by German non-
+financials.
+Sanctions are applied instantaneously, such that there is no time lag between the date
+of announcement of a sanction and its enforcement. In our empirical analysis, with balance of
+payments data at monthly frequency, we code sanctions imposed after the middle of the
+month as being effective from the beginning of the following month. For two target countries,
+Uzbekistan and the Comoros, the sanctions have also been lifted again completely during our
+sample period. However, as German non-financial entities do not declare any financial
+business with the Comoros, these episodes of a (reverse) switch in sanction status are
+ignored.16
+In Table 2, we describe our financial data in more detail. As noted above, the raw data
+are highly disaggregated, with separate statistical entries in a given month for each feature of
+a transaction. Therefore, in order to partly reduce the complexity of the data, the table reviews
+data at the country-month level, our main unit of analysis. Descriptive statistics are presented
+for both the full sample of available observations, and for transactions under sanction, along
+with a p-value for a t-test of equality of means.
+Table 2 illustrates the various features and dimensions of our (raw) balance of
+payments data. For each country-month pair in our sample, there are, on average, about 33
+separate entries of cross-border financial activities; each entry refers to a capital flow activity
+(inflow or outflow) in one of nine asset categories by a single German non-financial reporting
+unit (or declarant). Overall, there is broad trading activity which is particularly concentrated
+in credit, equity capital and direct investment credit.17
+More interestingly, and perhaps not surprisingly, given the irrelevance of many
+sanction targets as a financial partner noted above, bilateral financial interactions with
+sanctioned countries are rare; sanction episodes account for only 4 percent of our sample (of
+country-month pairs). Also, capital flows under sanctions are, on average, of smaller,
+16 Besedes, Goldbach and Nitsch (2017) use these episodes to replicate their analysis for the
+removal (instead of the imposition) of sanctions, without new insights.
+17 Once the sample is expanded to also include financial institutions and insurance companies,
+financial flows are dominated by trading activities in bonds and stocks; see Besedes,
+Goldbach and Nitsch (2017).
+9
+although still sizable, magnitude.18 There are fewer balance of payments `transactions',
+reported by a smaller number of declarants and involving fewer asset classes, potentially
+already reflecting greater administrative hurdles due to the imposition of financial sanctions.
+4. Business with Sanctioned Countries
+We begin our empirical analysis of the domestic costs of sanctions by examining the
+effect of sanctions on the targeted economic activity. Since financial sanctions typically put
+restrictions on cross-border financial interactions, we apply a differences-in-differences
+approach to analyze how financial flows declared by German non-financial entities to/from
+sanctioned countries have changed after the imposition of sanctions. More specifically, we
+estimate variants of the following model:
+(1) Log(Flowct
+) =  +  Sanctionsct
+{+ Xct
+} + c
++ t
++ ct
+where Flowct
+is a measure of German financial activity with country c at time t, Sanctionsct
+is
+an indicator variable that takes the value of one when financial sanctions are imposed (and is
+zero otherwise), Xct
+is a vector of auxiliary control variables, and we include a full set of
+country-specific (c
+) and time-specific (t
+) fixed effects. The coefficient of interest to us is ,
+which measures the effect of sanctions on cross-border financial activities; a negative and
+significant coefficient indicates that the adoption of sanctions is associated with fewer
+financial interactions between German non-financial declarants and their foreign counterparts,
+ceteris paribus. Throughout the analysis, we estimate regressions with OLS and apply cluster-
+robust Huber-White standard errors. Also, we analyze the data at the country-month level to
+reduce the amount of noise, and especially the number of zero observations (i.e., observations
+of no flows), in the raw data.19
+18 As noted above, restrictive measures are typically tailored in order to promote the desired
+outcome; they do not prohibit automatically all business dealings with a sanctioned country.
+For the EU's description of best practices for the effective implementation of restrictive
+measures, see http://eeas.europa.eu/archives/docs/cfsp/sanctions/docs/index_en.pdf.
+19 As we examine a balanced sample, the analysis of more disaggregated data inflates the size
+of the panel dramatically.
+10
+We use four different variables to measure the intensity of bilateral financial
+interactions between Germany and countries (or, more precisely, territories) in the rest of the
+world: (1) the total value of bilateral capital flows (defined as the sum of inflows and
+outflows), (2) the value of gross capital inflows, (3) the value of gross capital outflows, and
+(4) the net value of bilateral capital flows (defined as outflows minus inflows). For us, none of
+the measures is obviously superior to any other, although we put perhaps somewhat less
+emphasis on the estimation results for net financial flows. We also experiment with adding
+further control variables to the baseline fixed effects differences-in-differences specification,
+at the costs of a (much) smaller sample size.
+Table 3 reports the results. Columns (1) to (4) of the table present the estimates from
+the parsimonious specification of equation (1) which only includes, in addition to our variable
+of interest, the sanctions dummy, two sets of fixed effects. In this specification, all time-
+invariant influences on German financial flows with a country (such as, for instance, the
+partner's geographic distance from Germany) are accounted for by country fixed effects,
+while a comprehensive set of time fixed effects captures monthly variations in capital flows
+common to all partners. As shown, the point estimates of  are consistently negative and, with
+a value of about -0.8, of about the same magnitude as found in Besedes, Goldbach and Nitsch
+(2017) who analyze a shorter but more comprehensive sample of German cross-border
+financial flows (covering, in addition, declarations by German financial institutions and
+insurance companies). Taken at face value, the point estimates of  imply that capital flows
+by German non-financial businesses with target countries of sanctions decrease, on average,
+by about 55 percent (exp(-0.8)-1) after the imposition of financial sanctions which seems
+economically plausible. In comparison to Besedes, Goldbach and Nitsch (2017), however, the
+statistical precision of the estimated effects is considerably lower. Only one of the four
+coefficients is estimated at the 5 percent level of statistical significance, while the remaining
+three coefficients are marginally significant at the 10 percent level. As a result, the activities
+of German non-financial entities seem to be less clearly affected by financial sanctions than
+the business activities of financial declarants.
+This finding is confirmed when we additionally control for standard determinants of
+bilateral financial flows (such as the partner country's stock market capitalization).20 Columns
+(5) to (8) of Table 3 tabulate the results from the augmented model of equation (1). In fact,
+with this extension, our estimates of  decrease in magnitude by about one-half and become
+20 See Forbes and Warnock (2012).
+11
+statistically indifferent from zero at any conventional level of confidence. Part of the decline
+in the estimated sanctions effect is explained by time-varying country-specific features. A
+country's overall financial openness, for instance, turns out to be, as expected, positively
+associated with German capital flows and is likely to decline under sanctions. The results are
+also affected, however, by the considerably reduced sample size. As some control variables
+are only available for a limited number of countries, our sample is effectively reduced to
+cover only seven (of 23) sanctions episodes. For these episodes, then, which contain the
+economically more relevant markets from the list of sanctioned countries, there is hardly any
+measurable effect of sanctions on the cross-border capital flows of German non-financial
+declarants identifiable. When we reestimate, for the restricted sample, the parsimonious
+specification of equation (1), the estimated  coefficient is of (borderline) statistical
+significance for only two measures of cross-border financial activity (total flows and net
+flows).21,22
+In Table 4, we expand our analysis to cover not only the value of financial flows but
+also other quantitative features of Germany's bilateral financial relationship with a country. In
+particular, we decompose aggregate financial flows with a partner into various (contributing)
+factors (such as the number of German reporting units that actually declare financial
+transactions with the country) and estimate the sanctions effect for these factors separately.
+The results of these decomposition exercises are reported in Table 4. As before, we
+experiment with various specifications of equation (1). However, to save space, we only
+report estimates for the coefficient of interest, ; that is, each cell in the table contains the
+results of a separate regression. The regressand is tabulated in the first column on the left of
+the table; the remaining eight columns correspond to the specifications of equation (1) in
+Table 3 (including additional country controls for columns (5)-(8)). For comparison, the first
+row of Table 4 replicates the results for the value of financial flows shown in the first row of
+Table 3.
+Reviewing the results, the sanctions effect varies sizably by type of margin.
+Specifically, for measures of the extensive margin of a bilateral financial relationship (such
+21 Results are available on request.
+22 Instead of controlling for determinants of cross-border financial flows, it may also be
+reasonable to restrict the analysis to a homogeneous group of countries. When we analyze a
+sample that only includes countries with a per capita income below that of the sanctioned
+country with the highest per capita income (Russia), our baseline results remain qualitatively
+unchanged.
+12
+as, for instance, the number of German reporting units that declare financial activities with a
+country in a given month), the estimated  coefficients take consistently negative and
+statistically significant values. In particular, our point estimates imply a decline in the number
+of declarants, depending on specification, by between 26 and 32 percent, while somewhat
+larger effects are observed for the number of statistical entries in the balance of payments.
+More notably, this finding is largely unaffected when we extend our specification to include
+additional control variables. As shown in columns (5) to (8), the coefficients even tend to
+increase in magnitude with this extension. In contrast to our findings for the intensive margin,
+these results indicate a measurable decline in financial activities with sanctioned countries
+after the imposition of sanctions.
+A reasonable explanation for the discrepancy in our findings for the effects of
+sanctions along the intensive and the extensive margin is that `smart' sanctions are, indeed,
+smart. To be more precise, financial restrictions may induce a reduction, or maybe even a
+complete elimination, of targeted economic activities, while hardly affecting Germany's
+overall financial relationship with a sanctioned country. Consequently, they do not cause
+collateral damage.
+Table 5 explores this hypothesis in more detail. In this table, we return to our analysis
+of the value of aggregate financial flows but now split the sanctions dummy by the size of the
+partner country's market as proxied by the number of German entities declaring financial
+activities with a country; that is, instead of a single indicator variable for the application of
+financial sanctions, we now use two variables to identify sanctions episodes.23 In particular,
+we hypothesize that financial restrictions have a larger effect on aggregate financial flows if
+they are imposed on countries in which only few German declarants report activities, while a
+withdrawal of some declarants may have basically no effect in markets with many German
+participants. As shown, the results indeed differ notably by market size. For small markets,
+for which the number of German declarants is below the median, the value of capital flows
+consistently declines after the imposition of sanctions, while the effect is statistically
+indifferent from zero for large markets. In sum, financial sanctions measurably restrict the
+23 For each sanctions episode, we count the number of German declarants that report financial
+activities with the target country in the twelve months before the imposition of the sanction
+and, then, split the sample in half to identify, according to this measure, large and small target
+countries. We also experiment, in unreported results, with other measures of market size, such
+as a country's GDP, obtaining qualitatively similar findings. In line with our approach, Eaton,
+Kortum, and Kramarz (2011) document, for French firms, that the number of firms selling to
+a market increases with the size of the market.
+13
+financial activities of German non-financial declarants with the target country. However,
+except for target countries of (very) limited economic importance for German non-financials,
+there is no significant decline in overall business activity with the target country identifiable.
+5. Firms Facing Sanctions
+An implicit assumption in reduced-form assessments of the domestic costs of
+sanctions is that financial restrictions affect all internationally active firms in similar fashion.
+Firms reporting business with sanctioned countries, however, may be systematically different
+from other declarants, potentially affecting their ability to cope with restrictions. Therefore,
+we next describe German non-financial entities that report cross-border capital flows with a
+sanctioned country in more detail. To do so, we construct, from the balance of payments,
+measures of the extent of a firm's monthly cross-border financial activities and estimate
+regressions of the form:
+(2) log(FirmActivity)it
+=  +  SanctionedFirmit
+{+ Zit
+} + t
++ it
+where FirmActivityit
+is a measure of declarant i's aggregate cross-border financial activity at
+time t, SanctionedFirmit
+is an indicator variable that takes the value of one when declarant i
+faces sanctions on (part of) its business at time t (and is zero otherwise), Z is a vector of
+auxiliary control variables, and we include a full set of time-specific (t
+) fixed effects. Our
+unit of observation for this exercise is a firm-month pair; that is, we compute, for each firm in
+our sample, a measure of the firm's business activities at a given point in time, and compare
+firms that declare activities with at least one country under sanctions with firms only reporting
+transactions with non-sanctioned countries, holding constant for other factors. To the extent
+there is any systematic difference between the firms identifiable, this difference will be
+captured by , the estimated coefficient on our variable of interest.
+As before, we proceed sequentially. We begin our analysis with a measure of how
+active a non-financial entity is in cross-border financial business as proxied by the log number
+of entries in the balance of payments statistics by a declarant in a given month (i.e., the firm-
+asset-country triplet). The results are reported in the first column in Table 6. The estimated
+14
+coefficient on the sanctions dummy is positive and statistically significant, indicating that
+non-financial declarants hit by sanctions tend to report a disproportionately large number of
+activities with countries worldwide. The point estimate of 1.3 indicates that firms affected by
+sanctions report, on average, 130 percent more cross-border financial transactions, measured
+by the number of country-asset pair entries in the balance of payments, than other declarants.
+Moreover, columns (2) to (4) show that this result remains qualitatively unchanged when we
+include additional control variables. In particular, we successively add (1) a comprehensive
+set of sector fixed effects to control for any industry-specific factors that may affect a firm's
+cross-border financial activity, (2) the total value of a firm's capital flows to control for firm
+size, and (3) the number of the firm's international markets that are under sanctions. While
+sector fixed effects and a firm's total cross-border flows explain part of the difference
+between entities operating under sanctions and other declarants, sanction-affected entities are
+still disproportionately more active in international markets, with the effect getting stronger
+the larger the number of sanctioned markets for which an entity reports business activities.
+Similarly, the results also hold for a balanced sample, which also includes (previously
+dropped) observations of zero cross-border activity, as shown in columns (5) to (8).24
+In Table 7, we experiment with other measures of firm activity, including firm
+characteristics taken from the corporate balance sheets database (such as employment and
+sales), without much effect on our main findings. Non-financial entities with activities in
+sanctioned countries are significantly larger than other declarants, by approximately 40
+percent for both employment and sales. Firms which are active in sanctioned markets also
+have more total assets, and they are more productive.
+In sum, we conclude that financial sanctions predominantly affect non-financial
+declarants with a wide range of domestic and international business activities and, therefore,
+considerable outside options. For a proper assessment of the domestic costs of sanctions, this
+empirical finding, which is unobservable from the analysis of aggregate data, may be of
+particular relevance.
+6. Responses to Sanctions
+In view of the outside business opportunities, we next examine how German non-
+financial declarants respond to the imposition of sanctions. To analyze this issue, we make
+24 Following standard practice, we add the value of 1 to our measure of firm activity, the
+number of firm-asset-partner triplets, to allow for log-linearization of this variable.
+15
+explicit use of our granular data that allow us to observe cross-border financial activities by
+individual declarant. In particular, we perform a two-step procedure. In a first step, we
+identify German reporting units which declared financial activities with sanctioned countries
+in the period of 12 months before restrictive measures were imposed. These declarants are
+classified as firms affected by sanctions.25 Then, based on this information, we analyze
+differences in the activities between declarants affected (or `treated') by sanctions and
+declarants without any business operations with target countries, examining firm activities
+with non-sanctioned countries only. We hypothesize that any systematic variation over time in
+the size and scope of financial activities with non-sanctioned countries between the two
+groups of declarants can be interpreted as evidence of business responses related to the
+imposition of sanctions. Specifically, we estimate equations of the form:
+(3) Log(Flowi
+ct
+) =  +  AffectedFirmi
+ct
+{+ Xct
+} + i
+c
++ t
++ ct
+where Flowi
+ct
+is a measure of German financial activity of declarant i with country c at time t,
+AffectedFirmi
+ct
+is an indicator variable that takes the value of one when a declarant reported
+business operations with a target country of sanctions in the 12 months before sanctions were
+imposed (and is zero otherwise), X is a vector of auxiliary control variables, and we include
+full sets of declarant-country-specific (i
+c
+) and time-specific (t
+) fixed effects. In our
+empirical setting in which we focus exclusively on a sample of non-sanctioned countries and,
+therefore, ignore the direct effects of sanctions, the estimate of  indicates the extent to which
+financial activities of treated reporting units with a given country deviate from the activities of
+other declarants after the treated units have been exposed to the treatment (i.e, they suffer
+from the imposition of sanctions on a third country).
+Table 8 presents the results. The table is constructed analogously to our benchmark
+analysis of cross-border financial flows (Table 3); that is, we report estimates for our four
+measures of bilateral capital flows, using both a highly parsimonious specification of equation
+(3), with results being tabulated in columns (1)-(4) of the table, as well as a more demanding
+specification with additional control variables, for which the results are tabulated in columns
+25 A time window of 12 months before the imposition of sanctions allows us to ignore
+possible seasonal variation in financial activities. However, when we experiment with other
+time windows to identify sanctions-affected firms, we obtain very similar results.
+16
+(5)-(8). As before, the number of observations declines as the number of regressors increases
+because of missing country data. However, the drop in sample size turns out to be somewhat
+less pronounced for the analysis of firm-level data. Moreover, to the extent the control
+variables take significant coefficients, the results are reasonable and intuitive. Most notably,
+the effect of this modification on the main results is negligible, in contrast to our baseline
+findings above.
+Turning to the variable of interest, the estimates of  are consistently positive and
+economically and statistically significant. Often, the t-statistic is close to ten. This finding
+suggests that German declarants affected by sanctions policies indeed turn out to be highly
+flexible in adjusting their business patterns, successfully exploring alternative business
+opportunities. According to our point estimates, treated declarants expand their activities with
+other (non-sanctioned) countries relative to German declarants unaffected by financial
+sanctions by 35 to 55 percent, depending on specification.
+Another possible interpretation that is consistent with our empirical findings, however,
+is that declarants, instead of opening up new markets, simply continue business operations
+with target countries, via extended transactions with third countries. Consequently, sanctions
+would be largely ineffective because affected declarants circumvent the restrictions by using
+third countries as intermediaries.
+Unfortunately, our data does not allow us to directly distinguish between these two
+different interpretations of the observed increase in third-country capital flows by sanctions-
+affected German declarants.26 However, we are able to identify possible circumvention
+behavior. In particular, it is argued that circumvention of sanctions becomes more difficult the
+more countries impose them. As sanctions in our sample are imposed either by the European
+Union or by the entire United Nations, we expect to find evidence of circumvention, if
+anything, for sanctions imposed by the European Union alone. Further, it is assumed that
+countries which are economically close to the target countries of sanctions are the countries
+which may be more likely to serve as an intermediary.27 Therefore, we identify a target
+26 The main restriction is our limited access to data, covering detailed balance of payments
+information from only a single source country, Germany.
+27 Besedes, Goldbach and Nitsch (2017) also examine other potential intermediaries for the
+circumvention of financial sanctions, such as offshore financial centers. However, for this
+group of countries and territories, the results are much less conclusive.
+17
+country's five largest trading partners in the 12 months before the imposition of sanctions.28
+Specifically, we argue that a relative increase in the financial relationships of sanction-
+`treated' units with countries which are major trading partners of sanctioned countries can be
+interpreted as evidence of circumvention.29
+Estimation results are contained in Table 9. In contrast to our previous analysis, in
+which we use a single variable to describe the cross-border financial activities of German
+non-financial declarants affected by the imposition of sanctions relative to reporting units
+unaffected by sanctions, we now use six measures; these measures differentiate between the
+scope of sanctions (EU, UN) and the destination of third-country capital flows (top 5 trading
+partners of the target country, rest of the world), respectively. In combination, the results are
+indicative of circumvention behavior. Two findings are particularly noteworthy. First, for
+sanctions which have been imposed by the European Union alone, the estimated coefficients
+on the interaction terms (EU sanctions × destination) consistently take positive and significant
+values. As a result, third-country capital flows of German declarants affected by EU sanctions
+have, on average, sizably increased in relative terms. More importantly, the coefficients are
+larger, in both a statistical and an economic sense, for financial transactions with countries
+with close economic ties with sanctioned countries. Depending on the flow and regression
+specification, the point estimates imply that business with the largest trading partners of
+sanctioned countries increased by about 80 to 120 percent whereas business with all other
+countries expanded by only about 30 to 60 percent. This notable difference in the geographic
+diversification of financial activities, holding constant for other factors, is suggestive of the
+possibility of circumvention behavior by sanctions-affected German declarants. Second, for
+UN sanctions, we obtain very different results. For these sanctions, which are (by definition)
+broader in geographic scope, transactions of affected firms increase, if anything, only for
+countries other than the major trading partners of target countries. As there is a priori no
+reason to expect a difference in patterns of geographic readjustment of financial activities by
+type of sanction, we argue, in line with Besedes, Goldbach and Nitsch (2017), that this finding
+provides further evidence of efforts by affected declarants to circumvent financial sanctions.
+28 Monthly data on bilateral values of trade between countries are obtained from the
+International Monetary Fund's Direction of Trade Statistics. We compute a country's trade
+shares based on the sum of exports and imports.
+29 Circumvention does not necessarily imply that a sanctions regime is violated. Due to the
+administrative burden associated with sanctions, for instance, declarants also have a
+reasonable incentive to reroute legal activities.
+18
+In sum, we conclude that, in response to sanctions, affected firms expand their
+business with non-sanctioned countries. Especially for sanctions imposed by the EU alone,
+there is indirect evidence that firms manage to continue their business operations with the
+target countries via non-sanctioned countries which display close trade ties to the sanctioned
+country and, therefore, serve as intermediaries.
+7. Sanctions and Firm Performance
+In a final exercise, we examine the overall costs of sanctions on domestic businesses.
+In view of the frequent and widespread opposition of industry groups and business leaders to
+sanction policies, emphasizing the loss in foreign business opportunities associated with such
+policy measures, the restrictions are expected to (also) have measurable negative
+consequences for the domestic economy, at least at the firm level. Therefore, we ask: Do
+German non-financial declarants affected by sanctions experience an identifiable decline in
+firm performance?
+We analyze this issue by estimating regressions of the form:
+(4) log(FirmPerformance)it
+=  +  AffectedSanctionedFirmit
++ i
++ t
++ it
+where FirmPerformanceit
+is a measure of declarant i's overall economic performance at time t,
+AffectedSanctionedFirmit
+is an indicator variable that takes the value of one when declarant i
+reports business with a sanctioned country within 12 months before the imposition of
+sanctions or after the imposition of sanctions (and is zero otherwise), and we include a full set
+of firm-specific (i
+) and time-specific (t
+) fixed effects. In this differences-in-differences
+setting, to the extent that sanctions have any measurable effect on German non-financial
+entities, we expect the estimate of  to be negative and significant, indicating that firm
+performance worsens after the imposition of sanctions, holding constant for other
+(unobserved) firm features. As our data on firm characteristics are of annual frequency, we
+focus, in our baseline specification, on the contemporaneous association between sanctions
+and firm performance. Also, we jointly analyze the effects of sanctions on declarants that are
+affected by sanctions (because they reported business operations with a sanctioned country in
+19
+the 12 months before sanctions were imposed) and declarants that (continue to) operate under
+sanctions since a firm's activities may have been reduced or eliminated completely due to the
+imposition of restrictions.
+Table 10 presents the results. As before, we experiment with a wide range of firm
+characteristics. Each column of the table reports the results of a separate regression, with the
+regressand tabulated in the first line. We begin, in column (1), with a model specification in
+which firm performance is proxied by the number of employees. In particular, we argue that
+the size of the workforce is probably the most comprehensive measure of a firm's economic
+adjustment costs to a sanctions environment. For firm employment as dependent variable,
+however, the point estimate of , although negative, is economically small and statistically
+indistinguishable from zero. Taken at face value, this finding indicates that there is no
+measurable association between sanctions and firm performance. According to our estimation
+result, sanctions-affected firms do not change their labor force in response to sanctions. Still,
+adjustments in employment may be generally difficult, especially in the short term, due to
+German labor market regulations. Therefore, we next analyze a potentially more sensitive
+performance measure, a firm's total sales. As shown in column (2), for this regressand, the
+point estimate of  slightly increases in magnitude, but we obtain qualitatively similar
+estimation results. In line with our (weak) findings for the effects of sanctions on cross-border
+financial activities along the intensive margin, there is no evidence of a sizable drop in overall
+economic activity after the imposition of sanctions. Reassuringly, we note that this conclusion
+also holds for all our other measures of firm performance. The estimation results for assets,
+wages, capital intensity and productivity are tabulated in the remaining four columns of
+Table 10.
+We perform extensive robustness checks to confirm that the results are insensitive to
+the exact regression specification.30 For instance, we lag the regressor of interest one year to
+reduce possible simultaneity problems. We also estimate separate effects for firms affected by
+sanctions (and discontinuing business with the sanctioned country) and firms that still declare
+activities under sanctions. In none of these changes, however, the estimate of  takes a value
+that is statistically different from zero. As there is no observable difference in the business
+performance of German firms that either currently declare or previously have declared or
+never have declared transactions with a sanctioned country, we conclude that the domestic
+costs of financial sanctions at the firm level are negligible.
+30 In order to save space, we do not report the results.
+20
+8. Conclusions
+Sanctions are meant to hurt! By restricting a country's access to international markets,
+they impose costs on the foreign government, with the ultimate aim of inducing a fundamental
+change in the government's policies. At the same time, however, a reduction in cross-border
+business also implies costs for the domestic economy. In fact, given the sanctioning country's
+demonstrated willingness to bear the economic burden associated with such measures,
+sanctions are widely considered to be a particularly powerful tool of diplomacy.
+In this paper, we complement the sizable literature on the effects of sanctions on the
+target country by examining the economic costs of sanctions for the sanctioning country. In
+particular, we use detailed data from the German balance of payments statistics to analyze the
+effects of financial sanctions on German non-financial entities over the period from 1999
+through 2014. During this time, Germany imposed, due to its international obligations as a
+member state of the United Nations and the European Union, restrictive financial measures on
+23 countries.
+We find a measurable decline in Germany's financial activities with the sanctioned
+country after the imposition of sanctions. For non-financial entities, however, the reduction in
+cross-border business is mainly along the extensive margin, while the (negative) effect on
+financial flows, the intensive margin, is less precisely estimated, as one would expect for
+diplomatic attempts to `target' sanctions on specific individuals, groups, entities and
+activities. More notably, our data set allows us to identify entities that declared business with
+the sanctioned country and, therefore, can be assumed to be directly affected by the restrictive
+measures. These entities are not only found to be more active in international markets,
+providing them with numerous outside options to deal with the decline in business with the
+sanctioned country, there is also consistent evidence that they make use of such options,
+significantly expanding their business operations with non-sanctioned countries. As a result, it
+is unsurprising that we find no sanctions effect on aggregate indicators of firm-level activity,
+such as employment or sales. Overall, we conclude that sanctions have, at most, limited
+economic consequences for the sanctioning country.
+References:
+Bernard, Andrew B., J. Bradford Jensen, Stephen J. Redding and Peter K. Schott. 2017.
+"Global Firms," Journal of Economic Literature. (forthcoming).
+21
+Besedes, Tibor, Stefan Goldbach, and Volker Nitsch. 2017. "You're Banned! The Effect of
+Sanctions on German Cross-Border Financial Flows," Economic Policy. 32 (April): 263-318.
+Biersteker, Thomas, Sue E. Eckert, Marcos Tourinho, and Zuzana Hudáková. 2013. The
+Effectiveness of United Nations Targeted Sanctions. Geneva: Targeted Sanctions Consortium.
+Buch, Claudia M. and Alexander Lipponer. 2004. "FDI Versus Cross-Border Financial
+Services: The Globalisation of German Banks," Deutsche Bundesbank Discussion Paper
+05/2004.
+Eaton, Jonathan, Samuel Kortum, and Francis Kramarz. 2011. "An Anatomy of International
+Trade: Evidence from French Firms," Econometrica. 79 (September): 1453-1498.
+Forbes, Kristin and Francis Warnock. 2012. "Capital Flow Waves: Surges, Stops, Flight, and
+Re-trenchment," Journal of International Economics. 88 (November): 235-251.
+Hufbauer, Gary Clyde, Kimberly Ann Elliott, Tess Cyrus, and Elizabeth Winston. 1997. "US
+Economic Sanctions: Their Impact on Trade, Jobs, and Wages," Institute for International
+Economics Working Paper.
+Hufbauer, Gary Clyde, Jeffrey J. Schott, Kimberly Ann Elliott, and Barbara Oegg. 2007.
+Economic Sanctions Reconsidered, 3rd Edition. Washington, DC: Institute for International
+Economics.
+Kaempfer, William H. and Anton D. Lowenberg. 2007. "The Political Economy of Economic
+Sanctions,"in Todd Sandler and Keith Hartley (eds.) Handbook of Defense Economics,
+Volume 2. Amsterdam: Elsevier.
+Levy, Philip. 1999. "Sanctions on South Africa: What Did They Do?," American Economic
+Review. 89 (May): 415-420.
+Masters, Jonathan. 2015. "What Are Economic Sanctions?," Council for Foreign Relations,
+available at http://www.cfr.org/sanctions/economic-sanctions/p36259
+Schild, Christopher-Johannes, Simone Schultz, and Franco Wieser. 2017. "Linking Deutsche
+Bundesbank Company Data Using Machine-Learning-Based Classification," Technical
+Report 2017-01, Deutsche Bundesbank Research Data and Service Center.
+Figure 1: The Relevance of Sanctioned Countries for Cross-Border Capital Flows of
+German Non-Financial Declarants
+Source: Authors' calculations.
+left
+scale
+right
+scale
+0 .2 .4 .6 .8 1
+10-2 %
+0 20 40 60 80 100
+10-2 %
+Russia
+Myanmar
+Iran
+Egypt
+Libya
+Côte d'Ivoire
+Liberia
+Congo, DR
+Tunisia
+Uzbekistan
+Belarus
+Lebanon
+Guinea
+Zimbabwe
+Afghanistan
+Sudan
+Guinea-Bissau
+Syria
+Iraq
+Korea, DR
+Eritrea
+Somalia
+Central Afr Rep
+Comoros
+1999
+2014
+Shares in German Capital Flows (Firms only)
+22
+23
+Table 1: List of Financial Sanctions, 1999-2014
+Country First announcement
+(Lifted)
+Measures taken
+Myanmar 22 May 2000 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on military equipment
+Somalia 27 January 2003 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on military equipment
+Liberia 4 September 2003 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on military equipment
+Congo, Dem. Rep. 29 September 2003 Freezing of assets and economic resources
+of natural persons and establishments
+Sudan 26 January 2004 Freezing of assets and economic resources
+of natural persons
+Zimbabwe 19 February 2004 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on military equipment
+Côte d'Ivoire 31 January 2005 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on military equipment
+Uzbekistan 14 November 2005
+(15 December 2009)
+Export restriction on goods related to
+nuclear technology
+Lebanon 21 February 2006 Freezing of assets and economic resources
+Belarus 18 May 2006 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on military equipment
+Iran 2 February 2007 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on military equipment,
+chemicals and other resources (gold, silver,
+...)
+Korea, Dem. Rep. 27 March 2007 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on luxury goods and
+goods related to nuclear technology
+Comoros 17 March 2008
+(24 July 2008)
+Freezing of assets and economic resources
+of natural persons
+Guinea 22 December 2009 Freezing of assets and economic resources
+of natural persons; export restriction on
+military equipment
+Eritrea 26 July 2010 Freezing of assets and economic resources;
+export restriction on military equipment
+Tunisia 4 February 2011 Freezing of assets and economic resources
+of natural persons
+Libya 2 March 2011 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on military equipment
+Egypt 21 March 2011 Freezing of assets and economic resources
+of natural persons
+Syria 9 May 2011 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on military equipment,
+chemicals and other resources (gold, silver,
+...)
+Afghanistan 1 August 2011 Freezing of assets and economic resources
+24
+of natural persons and establishments
+Guinea-Bissau 3 May 2012 Freezing of assets and economic resources
+of natural persons
+Russia 5 March 2014 Freezing of assets and economic resources
+of natural persons and establishments;
+export restriction on oil drilling machinery,
+chemicals and other natural resources
+Central African Republic 10 March 2014 Freezing of assets and economic resources
+of natural persons and establishments
+Source: Deutsche Bundesbank, Service center `Financial Sanctions'.
+25
+Table 2: Descriptive Statistics
+Full Sample Under Sanctions
+Obs. Mean Std.
+Dev.
+Obs. Mean Std.
+Dev.
+t-test
+(p-
+value)
+Total Flows (Bn. ) 22,381 0.81 4.40 893 0.02 0.88 0.00
+Entries (Number) 22,381 32.53 75.30 893 3.74 9.21 0.00
+Avg. Flow per Entry (Mn.
+) 22,381 8.41 47.58 893 7.13 71.93 0.41
+Declarants (Number) 22,381 26.25 56.31 893 3.63 8.80 0.00
+Avg. Number of Entries per
+Declarant 22,381 1.09 0.16 893 1.02 0.10 0.00
+Asset Classes (Number) 22,381 3.51 2.38 893 1.88 1.10 0.00
+Avg. Flow per Asset Class
+per Declarant (Mn. )
+22,381 3.37 39.38 893 6.58 71.90 0.01
+Inflows (Bn. )
+­ By German Investors 21,408 0.15 0.82 853 0.01 0.01 0.00
+­ By Foreign Investors 11,625 0.59 3.19 221 0.01 0.01 0.01
+Outflows (Bn. )
+­ By German Investors 21,408 0.18 0.91 853 0.01 0.01 0.00
+­ By Foreign Investors 11,625 0.37 2.25 221 0.01 0.01 0.01
+Assets (Bn. )
+­ Bonds 10,708 0.30 1.39 152 0.01 0.01 0.01
+­ Commercial Paper 2,827 0.11 3.15 0 0.00 0.00
+­ Stocks 9,414 0.29 1.64 203 0.01 0.01 0.01
+­ Investment Certificate 5,071 0.17 0.84 41 0.00 0.00 0.19
+­ Equity Capital 13,958 0.29 2.73 333 0.01 0.04 0.06
+­ Direct Investment Credit 12,974 0.15 0.87 315 0.01 0.03 0.01
+­ Credit 16,365 0.14 0.56 586 0.01 0.09 0.00
+­ Other Capital 6,959 0.01 0.05 48 0.01 0.02 0.85
+­ Coupon 291 0.02 0.09 0 0.00 0.00
+Notes: The unit of observation is a country-month pair. If not noted otherwise, values refer to
+the sum of inflows and outflows.
+Table 3: The Effect of Sanctions on Cross-Border Capital Flows
+Log Total
+Flows
+Log Inflows Log
+Outflows
+Log |Net
+Flows|
+Log Total
+Flows
+Log Inflows Log
+Outflows
+Log |Net
+Flows|
+(1) (2) (3) (4) (5) (6) (7) (8)
+Sanctions -0.827*
+(0.436)
+-0.962**
+(0.475)
+-0.781*
+(0.423)
+-0.689*
+(0.352)
+-0.420
+(0.306)
+-0.330
+(0.800)
+-0.492
+(0.636)
+-0.461*
+(0.265)
+Stock Market
+Capitalization
+0.001
+(0.001)
+0.002
+(0.001)
+0.001
+(0.001)
+0.001
+(0.001)
+Capital Account
+Openness
+0.771**
+(0.355)
+-0.059
+(0.702)
+0.776**
+(0.357)
+0.948**
+(0.390)
+Public Debt -0.003
+(0.004)
+-0.006
+(0.004)
+-0.005
+(0.004)
+0.001
+(0.004)
+Real GDP Growth 0.208
+(0.169)
+-0.278
+(0.315)
+0.562***
+(0.215)
+0.176
+(0.139)
+Log GDP per Capita 0.024
+(0.071)
+0.152
+(0.149)
+0.004
+(0.075)
+0.049
+(0.081)
+Observations 40,512 40,512 40,512 40,512 13,148 13,148 13,148 13,148
+Adj. R˛ 0.808 0.788 0.806 0.764 0.815 0.732 0.745 0.663
+Notes: OLS estimation. The dependent variable is the log of the total value for the capital flow specified at the top of each column. The unit of
+observation is a country-month pair. Data cover the period from January 1999 through December 2014 in monthly frequency. Time fixed effects
+and country-specific fixed effects are included but not reported. Robust standard errors (clustered by country) in parentheses. ***, ** and * denote
+significant at the 1%, 5% and 10% level, respectively.
+26
+Table 4: The Effect of Sanctions on Cross-Border Financial Transactions
+Without Additional Control Variables With Additional Control Variables
+Log Total
+Flows
+Log
+Inflows
+Log
+Outflows
+Log |Net
+Flows|
+Log Total
+Flows
+Log
+Inflows
+Log
+Outflows
+Log |Net
+Flows|
+(1) (2) (3) (4) (5) (6) (7) (8)
+Log Total Value -0.827*
+(0.436)
+-0.962**
+(0.475)
+-0.781*
+(0.423)
+-0.689*
+(0.352)
+-0.420
+(0.306)
+-0.330
+(0.800)
+-0.492
+(0.636)
+-0.461*
+(0.265)
+Log Number of Entries -0.322***
+(0.101)
+-0.325***
+(0.076)
+-0.317***
+(0.085)
+-0.322***
+(0.101)
+-0.437**
+(0.179)
+-0.351*
+(0.191)
+-0.528**
+(0.208)
+-0.437**
+(0.179)
+Log Average Value per
+Entry
+-0.505
+(0.358)
+-0.628
+(0.401)
+-0.460
+(0.343)
+-0.368
+(0.279)
+0.016
+(0.196)
+0.070
+(0.685)
+-0.048
+(0.603)
+-0.026
+(0.197)
+Log Number of
+Declarants
+-0.300***
+(0.099)
+-0.308***
+(0.075)
+-0.308***
+(0.075)
+-0.300***
+(0.099)
+-0.391**
+(0.174)
+-0.312*
+(0.185)
+-0.312*
+(0.185)
+-0.391**
+(0.174)
+Log Number of Asset
+Classes
+-0.135**
+(0.057)
+-0.139***
+(0.042)
+-0.125**
+(0.049)
+-0.135**
+(0.058)
+-0.240**
+(0.098)
+-0.148
+(0.125)
+-0.251**
+(0.123)
+-0.240**
+(0.098)
+Log Avg. Value per
+Asset Class per
+Declarant
+-0.392
+(0.329)
+-0.515
+(0.409)
+-0.357
+(0.331)
+-0.254
+(0.252)
+0.211
+(0.204)
+0.131
+(0.628)
+0.249
+(0.575)
+0.169
+(0.229)
+Notes: OLS estimation. Each cell contains the coefficient from a separate regression; the regression specification is similar to the corresponding
+column in Table 3. The dependent variable is listed in the first column; the sample is specified at the top of each column. The unit of observation is
+a country-month pair. Data cover the period from January 1999 through December 2014 in monthly frequency. Robust standard errors (clustered by
+country) in parentheses. ***, ** and * denote significant at the 1%, 5% and 10% level, respectively.
+27
+Table 5: The Effect of Sanctions Cross-Border Capital Flows by Size of Destination Market
+Without Additional Control Variables With Additional Control Variables
+Log Total
+Flows
+Log
+Inflows
+Log
+Outflows
+Log |Net
+Flows|
+Log Total
+Flows
+Log
+Inflows
+Log
+Outflows
+Log |Net
+Flows|
+(1) (2) (3) (4) (5) (6) (7) (8)
+Sanctions Against
+Large Countries
+-0.745
+(0.786)
+-0.677
+(0.832)
+-0.828
+(0.786)
+-0.580
+(0.611)
+-0.392
+(0.367)
+0.525**
+(0.222)
+-0.929*
+(0.551)
+-0.470
+(0.313)
+Sanctions Against
+Small Countries
+-0.919***
+(0.266)
+-1.280***
+(0.343)
+-0.727***
+(0.184)
+-0.811***
+(0.268)
+-0.555***
+(0.188)
+-4.376***
+(0.237)
+1.579***
+(0.207)
+-0.417**
+(0.197)
+Observations 40,512 40,512 40,512 40,512 13,148 13,148 13,148 13,148
+Adj. R˛ 0.808 0.788 0.806 0.764 0.815 0.734 0.745 0.663
+Notes: OLS estimation. The regression specification is similar to the corresponding column in Table 3. The dependent variable is specified at the
+top of each column. The unit of observation is a country-month pair. Data cover the period from January 1999 through December 2014 in monthly
+frequency. Robust standard errors (clustered by country) recorded in parentheses. ***, ** and * denote significant at the 1%, 5% and 10% level,
+respectively.
+28
+Table 6: A Characterization of Firms with Capital Flows under Sanctions
+Recorded Capital Flows Only Capital Flows Including Zeros
+(1) (2) (3) (4) (5) (6) (7) (8)
+Dummy Firm with
+Capital Flows under
+Sanctions
+1.267***
+(0.187)
+1.185***
+(0.164)
+1.037***
+(0.134)
+0.215***
+(0.082)
+0.379***
+(0.063)
+0.372***
+(0.062)
+0.190***
+(0.037)
+0.121***
+(0.029)
+Log Total Value of
+Firm Capital Flows
+0.110***
+(0.005)
+0.106***
+(0.004)
+0.127***
+(0.001)
+0.127***
+(0.001)
+Log Number of
+Capital Flows under
+Sanctions by Firm
+1.020***
+(0.080)
+0.097***
+(0.013)
+Time Fixed Effects Yes Yes Yes Yes Yes Yes Yes Yes
+Sector Fixed Effects No Yes Yes Yes No Yes Yes Yes
+Observations 326,957 326,957 326,957 326,957 8,312,832 8,312,832 8,312,832 8,312,832
+Firms 43,296 43,296 43,296 43,296 43,296 43,296 43,296 43,296
+Adj. R˛ 0.032 0.080 0.265 0.305 0.009 0.017 0.794 0.795
+Notes: OLS estimation. The dependent variable is the log number of firm capital flow transactions (firm-asset-partner triplet) in the German Balance
+of Payments statistics. The unit of observation is a firm-month pair. Data cover the period from January 1999 through December 2014 in monthly
+frequency (192 months). Robust standard errors (clustered by firm) recorded in parentheses. ***, ** and * denote significant at the 1%, 5% and
+10% level, respectively.
+29
+Table 7: A Further Characterization of Firms with Capital Flows under Sanctions
+Log Average
+Value per
+Transaction
+Log Number
+Countries
+Log Number
+Asset
+Classes
+Log Firm
+Employment
+Log Firm
+Sales
+Log Firm
+Total Assets
+Log Firm
+Productivity
+(1) (2) (3) (4) (5) (6) (7)
+Dummy Firm with
+Capital Flows under
+Sanctions
+-1.037***
+(0.134)
+0.956***
+(0.118)
+0.238***
+(0.044)
+0.409***
+(0.154)
+0.412**
+(0.162)
+0.447***
+(0.128)
+0.175*
+(0.099)
+Log Total Value of
+Firm Capital Flows
+0.890***
+(0.005)
+0.090***
+(0.004)
+0.035***
+(0.002)
+0.220***
+(0.009)
+0.268***
+(0.011)
+0.361***
+(0.010)
+0.070***
+(0.005)
+Time Fixed Effects Yes Yes Yes Yes Yes Yes Yes
+Sector Fixed Effects Yes Yes Yes No No No No
+Industry Fixed Effects No No No Yes Yes Yes Yes
+Observations 326,957 326,957 326,957 16,491 16,070 17,929 14,217
+Firms 43,296 43,296 43,296 4,819 4,820 5,216 4,386
+Frequency Monthly Monthly Monthly Yearly Yearly Yearly Yearly
+Adj. R˛ 0.947 0.236 0.150 0.561 0.562 0.539 0.312
+Notes: OLS estimation. The dependent variable is listed in the first line; the regression specification is similar to column 4 in Table 4. Data cover
+the period from January 1999 through December 2014 in monthly frequency. Robust standard errors (clustered by firm) recorded in parentheses.
+***, ** and * denote significant at the 1%, 5% and 10% level, respectively.
+30
+Table 8: The Effects of Sanctions on Third-Country Capital Flows
+Log Total
+Flows
+Log
+Inflows
+Log
+Outflows
+Log |Net
+Flows|
+Log Total
+Flows
+Log
+Inflows
+Log
+Outflows
+Log |Net
+Flows|
+(1) (2) (3) (4) (5) (6) (7) (8)
+Affected Declarant 0.437***
+(0.045)
+0.456***
+(0.052)
+0.323***
+(0.049)
+0.307***
+(0.038)
+0.415***
+(0.051)
+0.412***
+(0.058)
+0.316***
+(0.053)
+0.287***
+(0.043)
+Stock Market
+Capitalization
+0.001***
+(0.000)
+0.002***
+(0.000)
+0.001**
+(0.000)
+0.001***
+(0.000)
+Capital Account
+Openness
+0.304*
+(0.173)
+0.242
+(0.333)
+0.428**
+(0.193)
+0.319**
+(0.151)
+Public Debt -0.001
+(0.001)
+0.002
+(0.002)
+-0.001
+(0.001)
+-0.001
+(0.001)
+Real GDP Growth 0.019
+(0.059)
+-0.059
+(0.090)
+0.061
+(0.068)
+0.041
+(0.056)
+Log GDP per Capita -0.059
+(0.037)
+-0.079
+(0.061)
+-0.063
+(0.044)
+-0.054
+(0.033)
+Observations 571,799 295,600 416,075 565,942 454,816 231,200 335,465 450,410
+Adj. R˛ 0.681 0.710 0.683 0.619 0.683 0.710 0.681 0.620
+Notes: OLS estimation. The dependent variable is specified at the top of each column. The unit of observation is a firm-country-month triplet. Data
+cover the period from January 1999 through December 2014 in monthly frequency. Time fixed effects and firm-country-specific fixed effects are
+included but not reported. Robust standard errors (clustered by country) recorded in parentheses. ***, ** and * denote significant at the 1%, 5% and
+10% level, respectively.
+31
+Table 9: The Effects of Sanctions on Third-Country Capital Flows Extended
+Log Total
+Flows
+Log Inflows Log
+Outflows
+Log |Net
+Flows|
+Log Total
+Flows
+Log Inflows Log
+Outflows
+Log |Net
+Flows|
+(1) (2) (3) (4) (5) (6) (7) (8)
+EU -0.085
+(0.119)
+-0.125
+(0.151)
+-0.030
+(0.137)
+0.047
+(0.117)
+-0.074
+(0.120)
+-0.001
+(0.152)
+-0.021
+(0.141)
+0.047
+(0.120)
+UN -0.419
+(0.714)
+-0.546*
+(0.284)
+0.111
+(1.064)
+0.016
+(0.576)
+0.304
+(0.704)
+0.138
+(0.387)
+0.785
+(0.999)
+0.487
+(0.642)
+Affected Declarant EU
+Top5
+0.783***
+(0.203)
+0.769***
+(0.189)
+0.642***
+(0.201)
+0.593***
+(0.170)
+0.777***
+(0.206)
+0.761***
+(0.188)
+0.666***
+(0.202)
+0.587***
+(0.173)
+Affected Declarant EU Rest 0.425***
+(0.054)
+0.454***
+(0.059)
+0.345***
+(0.059)
+0.259***
+(0.045)
+0.415***
+(0.060)
+0.422***
+(0.066)
+0.344***
+(0.064)
+0.252***
+(0.051)
+Affected Declarant UN
+Top5
+0.457
+(0.347)
+0.292
+(0.417)
+0.348
+(0.351)
+0.552**
+(0.258)
+0.411
+(0.340)
+0.215
+(0.400)
+0.312
+(0.339)
+0.508**
+(0.254)
+Affected Declarant UN Rest 0.242***
+(0.089)
+0.296**
+(0.116)
+0.048
+(0.098)
+0.195**
+(0.077)
+0.138
+(0.095)
+0.167
+(0.123)
+-0.005
+(0.101)
+0.083
+(0.081)
+Stock Market
+Capitalization
+0.001***
+(0.000)
+0.002***
+(0.000)
+0.001**
+(0.000)
+0.001***
+(0.000)
+Capital Account Openness 0.357**
+(0.157)
+0.246
+(0.279)
+0.438**
+(0.175)
+0.393***
+(0.140)
+Public Debt -0.001
+(0.001)
+0.002
+(0.002)
+-0.002
+(0.001)
+-0.001
+(0.001)
+Real GDP Growth 0.015
+(0.058)
+-0.052
+(0.087)
+0.048
+(0.067)
+0.044
+(0.055)
+Log GDP per Capita -0.036
+(0.038)
+-0.072
+(0.059)
+-0.038
+(0.045)
+-0.033
+(0.035)
+Observations 587,557 302,394 427,625 581,556 467,657 236,550 344,881 463,160
+Adj. R˛ 0.681 0.710 0.683 0.618 0.681 0.709 0.680 0.619
+Notes: OLS estimation. The dependent variable is specified at the top of each column. The unit of observation is a firm-country-month triplet. Data
+cover the period from January 1999 through December 2014 in monthly frequency. Time fixed effects and firm-country-specific fixed effects are
+included but not reported. Robust standard errors (clustered by country) recorded in parentheses. ***, ** and * denote significant at the 1%, 5% and
+10% level, respectively.
+32
+Table 10: The Effects of Sanctions on Firm Performance
+Log Firm
+Employment
+Log Firm
+Sales
+Log Firm
+Total Assets
+Log Firm
+Wages
+Log Firm
+Capital
+Intensity
+Log Firm
+Productivity
+(1) (2) (3) (4) (5) (6)
+Affected Declarant -0.015
+(0.066)
+-0.063
+(0.087)
+0.058
+(0.061)
+0.026
+(0.035)
+-0.047
+(0.119)
+0.120
+(0.079)
+Time Fixed Effects Yes Yes Yes Yes Yes Yes
+Firm Fixed Effects Yes Yes Yes Yes Yes Yes
+Observations 16,492 16,069 17,929 16,305 16,045 14,217
+Firms 4,820 4,820 5,216 4,766 4,676 4,386
+Frequency Yearly Yearly Yearly Yearly Yearly Yearly
+Adj. R˛ 0.961 0.946 0.975 0.797 0.899 0.839
+Notes: OLS estimation. The dependent variable is listed in the first line. Data cover the period from January 1999 through December 2014 in annual
+frequency. Robust standard errors (clustered by firm) recorded in parentheses. ***, ** and * denote significant at the 1%, 5% and 10% level,
+respectively.
+33
+34
+Appendix 1: Matching Procedure
+Most of our estimates are based on data from a single source, the Deutsche Bundesbank's
+Balance of Payments (BoP) statistics. However, for some analyses, we also link the
+information from the BoP statistics to firm-level information taken from the Deutsche
+Bundesbank's corporate balance sheets database (Ustan).
+Collected for different purposes and by different departments within Deutsche Bundesbank,
+the data lack a unique firm identifier. Therefore, following common internal practice, we
+apply a string matching procedure, where the algorithm takes into account the name of a unit,
+its address and its legal form, to identify the same real-world entity in the two data sets.
+Schild, Schultz, and Wieser (2017) provide an extensive documentation of this procedure and
+a detailed evaluation of the match result.
+Table A1 presents a brief overview of the various data samples. As shown, 12.1 percent of the
+non-financial reporting units in the BoP are matched to data in Ustan, covering about 12.7
+percent of the BoP entries. More notably, the matched data set does not differ significantly
+from the BoP data. While matched units are expected to be relatively large, their cross-border
+financial flows only marginally exceed the averages in the BoP sample.
+Table A1: Descriptive Statistics on the Matched Sample, 1999-2014
+BoP Ustan BoP-Ustan
+(1) (2) (3)
+Frequency Monthly Yearly Monthly
+Observations (Number) 734,441 454,362 93,267
+Firms (Number) 43,310 71,816 5,237
+Mean Total Flows (1,000 ) 25,029 26,621
+Mean Inflows (1,000 ) 13,915 14,211
+Mean Outflows (1,000 ) 11,114 12,410
+Mean Net Flows (1,000 ) 2,801 1,800
+Share of Sanctioned
+Observations (%)
+0.5 0.6
+Notes: All data have been obtained from the Deutsche Bundesbank. BoP is the balance of
+payments; Ustan is the corporate balance sheet statistics.
+
