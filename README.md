@@ -9,6 +9,7 @@ For each input sequence we want to predict the start tokens and their respective
 In training, each training sample only has one start position and one end position.
 We first predict the start position using Softmax + CrossEntropy on the features of each input token.
 ![Predicting start token](https://i.imgur.com/Ln4HvmJ.png)
+
 For training, we ignore the predicted probabilities and take the feature from the ground truth token, for inference we take the one with highest probability. We then concatenate that embedding to all the other extracted embeddings and use that new features to predict the position of the end token i.e. predicting the end position with regard to the start token.
 ![enter image description here](https://i.imgur.com/BUInoqT.png)
 
