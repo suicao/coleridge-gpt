@@ -94,7 +94,6 @@ for epoch in tq:
         x_batch, x_type_batch, x_start_batch, x_end_batch,x_offset_batch = items
         p_mask = torch.zeros(x_batch.shape,dtype=torch.float32)
         p_mask[x_batch == pad_token_id] = 1.0
-        p_mask[:,0] = 0.0
         attention_mask=(x_batch != pad_token_id)
         attention_mask[:,0] = True
         loss,start_loss,end_loss = model(input_ids=x_batch.cuda(), start_positions = x_start_batch.cuda(), end_positions = x_end_batch.cuda(), attention_mask=attention_mask.cuda(),p_mask=p_mask.cuda()) #,cls_ids=y_batch)
